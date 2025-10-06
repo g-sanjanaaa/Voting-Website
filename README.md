@@ -13,8 +13,6 @@ An online voting application built using **JSP**, **HTML**, **CSS**, and **AJAX*
 5. [Usage](#usage)  
 6. [Project Structure](#project-structure)  
 7. [Future Enhancements](#future-enhancements)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
 
 ---
 
