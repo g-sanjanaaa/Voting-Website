@@ -10,9 +10,8 @@ An online voting application built using **JSP**, **HTML**, **CSS**, and **AJAX*
 2. [Architecture & Technologies](#architecture--technologies)  
 3. [Setup & Installation](#setup--installation)  
 4. [Database Schema](#database-schema)  
-5. [Usage](#usage)  
-6. [Project Structure](#project-structure)  
-7. [Future Enhancements](#future-enhancements)  
+5. [Usage](#usage)
+6. [Future Enhancements](#future-enhancements)  
 
 ---
 
